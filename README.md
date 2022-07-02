@@ -57,8 +57,11 @@ TODO
 * Define a standard for wallet format as .OWF
 
 
-Support
-=======
-Please support the work by either writing code or donate to 1owfJHTsWrrCpgaaYjC1vbJevuQzYRTYn
 
-It would be greatly appreciated. 
+----
+
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
+
